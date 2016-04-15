@@ -1,0 +1,6 @@
+.DS_Store
+.idea
+src/access_token.json
+src/gatling.iml
+src/target/
+src/results/
